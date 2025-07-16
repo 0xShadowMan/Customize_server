@@ -1,10 +1,7 @@
-This is for a educational purposes, so do not misuse it.
+This is intended for educational purposes only, so please don't use it.
 
 
 ![Youtube_video-Cover](https://github.com/user-attachments/assets/c9a69b0b-d910-4b43-a83a-e42b1faa6993)
-----------------
-video:
-https://www.youtube.com/watch?v=e3Kk98ohUsI
 
 ----------------
 
