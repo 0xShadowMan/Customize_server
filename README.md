@@ -5,7 +5,7 @@ This is intended for educational purposes only, so please don't use it.
 
 ----------------
 
-Comments:
+Commend:
 --------------------------------------------------------------
 sudo service apache2 start
 
